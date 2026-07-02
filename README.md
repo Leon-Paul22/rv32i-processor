@@ -108,6 +108,6 @@ The repository is continuously updated as new modules are designed, verified, an
 ## Author
 
 **Leon Paul**
-B.E. Electronics & Electrical Engineering  
-Birla Institute of Technology and Science, Pilani
 
+B.E. Electrical & Electronics Engineering  
+Birla Institute of Technology and Science, Pilani
